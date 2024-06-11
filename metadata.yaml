@@ -1,0 +1,44 @@
+_repo: Sketches-of-the-Christian-life-and-public-labors-of-William-Miller-b-Gathered-from-his-memoir__73721
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Bliss, Sylvester
+    birthdate: 1814
+    deathdate: 1863
+    gutenberg_agent_id: '32139'
+    url: http://www.gutenberg.org/2009/agents/32139
+creator:
+  author:
+    agent_name: White, James
+    alias: White, James Springer
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '48102'
+    url: http://www.gutenberg.org/2009/agents/48102
+    wikipedia: https://en.wikipedia.org/wiki/James_Springer_White
+description: ''
+gutenberg_issued: '2024-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73721'
+  lccn: '36025155'
+language: en
+pgterms:marc904: https://archive.org/details/sketchesofchris00whit/page/n9/mode/2up
+pgterms:marc905: 20201024224159white
+pgterms:marc906: '1875'
+pgterms:marc907: us
+production_note: Brian Wilson and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aBattle Creek :$bSteam Press of the Seventh-day Adventist Publishing
+  Association, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Miller, William, 1782-1849'
+- !lcc 'BX'
+- GITenberg
+title: 'Sketches of the Christian life and public labors of William Miller : $b Gathered
+  from his memoir by the late Sylvester Bliss, and from other sources'
+url: http://www.gutenberg.org/ebooks/73721
