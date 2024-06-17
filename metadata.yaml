@@ -7,6 +7,9 @@ contributor:
     deathdate: 1863
     gutenberg_agent_id: '32139'
     url: http://www.gutenberg.org/2009/agents/32139
+covers:
+- cover_type: archival
+  image_path: 73721-h/images/cover.jpg
 creator:
   author:
     agent_name: White, James
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48102
     wikipedia: https://en.wikipedia.org/wiki/James_Springer_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73721#Sketches-of-the-Christian-life-and-public-labors-of-William-Miller-b-Gathered-from-his-memoir_
 gutenberg_issued: '2024-05-29'
 gutenberg_type: Text
 identifiers:
